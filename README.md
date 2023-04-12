@@ -14,7 +14,7 @@
 <a href="https://www.linkedin.com/in/mrpilu4u/" target="_blank" rel="noreferrer"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" /></a>
 <a href="https://www.instagram.com/mr.pilu4u/" target="_blank" rel="noreferrer"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" alt="instagram" height="40" width="40" /></a>
 <a href="https://mrpilu.medium.com/" target="_blank" rel="noreferrer"><img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="medium" height="40" width="40" /></a>
-<a href="https://dev.to/mrpilu/" target="_blank" rel="noreferrer"><img align="center" src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" alt="dev" height="50" width="55" /></a>
+<a href="https://dev.to/mrpilu/" target="_blank" rel="noreferrer"><img align="center" src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" alt="dev" height="55" width="60" /></a>
 
 
 ### 🚀 Languages and Tools:
