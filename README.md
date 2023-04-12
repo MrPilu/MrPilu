@@ -15,7 +15,7 @@
 <a href="https://www.instagram.com/mr.pilu4u/" target="_blank" rel="noreferrer"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" alt="instagram" height="40" width="40" /></a>
 <a href="https://mrpilu.medium.com/" target="_blank" rel="noreferrer"><img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="medium" height="40" width="40" /></a>
 <a href="https://dev.to/mrpilu/" target="_blank" rel="noreferrer"><img align="center" src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" alt="dev" height="58" width="65" /></a>
-<a href="https://stackoverflow.com/users/16735312/piyush-vekariya?tab=profile" target="_blank" rel="noreferrer"><img align="center" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/stackoverflow/stackoverflow-tile.svg" alt="stackoverflow" height="40" width="40" /></a>
+<a href="https://stackoverflow.com/users/16735312/piyush-vekariya?tab=profile" target="_blank" rel="noreferrer"><img align="center" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-tile.svg" alt="stackoverflow" height="40" width="40" /></a>
 
 
 ### 🚀 Languages and Tools:
