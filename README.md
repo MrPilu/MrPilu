@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-### Hi there 👋
-
 ## I'm a passionate Full-Stack Engineer!!
 
 *   📂 I love to work with JavaScript/Typescript/Laravel (React.js, React Native, Next.js, Angular)
@@ -13,14 +11,40 @@
 
 ### 👉 Connect with me:
 
-[![linkedin](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/mrpilu4u)  
-[![instagram](https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg)](https://www.instagram.com/mr.pilu4u/)  
-[![medium](https://www.vectorlogo.zone/logos/medium/medium-tile.svg)](https://mrpilu.medium.com/)  
-[![dev](https://www.vectorlogo.zone/logos/devto/devto-icon.svg)](https://dev.to/mrpilu)
+<a href="https://www.linkedin.com/in/mrpilu4u/" target="_blank" rel="noreferrer"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" /></a>
+<a href="https://www.instagram.com/mr.pilu4u/" target="_blank" rel="noreferrer"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" alt="instagram" height="40" width="40" /></a>
+<a href="https://mrpilu.medium.com/" target="_blank" rel="noreferrer"><img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="medium" height="60" width="50" /></a>
+<a href="https://dev.to/mrpilu/" target="_blank" rel="noreferrer"><img align="center" src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" alt="dev" height="50" width="50" /></a>
+
 
 ### 🚀 Languages and Tools:
 
-[![javascript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![typescript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg)](https://www.typescriptlang.org/) [![php](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg)](https://www.php.net)[![swagger](https://github.com/get-icon/geticon/blob/master/icons/swagger.svg) ](https://swagger.io/)[![html5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) ](https://dev.w3.org/html5/html-author/)[![css3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) ](https://www.w3.org/TR/2001/WD-css3-roadmap-20010523/)[![sass](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg) ](https://sass-lang.com)[![react](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) ](https://reactjs.org/)[![redux](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg) ](https://redux.js.org/)[![next](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg) ](https://nextjs.org/)[![angular](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg) ](https://angular.io)[![laravel](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg) ](https://laravel.com/)[![mui](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg) ](https://mui.com/)[![tailwindcss](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg) ](https://tailwindcss.com/)[![bitbucket](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg) ](https://getbootstrap.com/)[![ionic](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg) ](https://ionicframework.com/)[![wordpress](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg) ](https://wordpress.com/)[![jquery](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg) ](https://jquery.com/)[![codeigniter](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg) ](https://codeigniter.com/)[![git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg) ](https://git-scm.com/doc)[![mysql](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg)](https://www.mysql.com/) [![postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg)](https://postman.com) [![bitbucket](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg)](https://bitbucket.org/) [![npm](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg)](https://www.npmjs.com/)
+<p align="left"> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
+<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
+<a href="https://swagger.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/get-icon/geticon/blob/master/icons/swagger.svg" alt="swagger" width="40" height="40"/> </a> 
+<a href="https://dev.w3.org/html5/html-author/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> </a> 
+<a href="https://www.w3.org/TR/2001/WD-css3-roadmap-20010523/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> </a> 
+<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a> 
+<a href="https://redux.js.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="next" width="40" height="40"/> </a> 
+<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/> </a> 
+<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40"/> </a> 
+<a href="https://mui.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="mui" width="40" height="40"/> </a> 
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="40" height="40"/> </a> 
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bitbucket" width="40" height="40"/> </a> 
+<a href="https://ionicframework.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" alt="ionic" width="40" height="40"/> </a> 
+<a href="https://wordpress.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" alt="wordpress" width="40" height="40"/> </a> 
+<a href="https://jquery.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jquery" width="40" height="40"/> </a> 
+<a href="https://codeigniter.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" alt="codeigniter" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/doc" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> </a> 
+<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
+<a href="https://bitbucket.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" alt="bitbucket" width="40" height="40"/> </a> 
+<a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/> </a> 
+</p>
 
 **✨Bit More About Me**  
 I'm a self-taught passionate full-stack engineer, with 6+ years of experience in building accessible and high-quality digital experiences. 
