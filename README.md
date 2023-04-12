@@ -46,12 +46,14 @@
 <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/> </a> 
 </p>
 
-**✨Bit More About Me**  
-I'm a self-taught passionate full-stack engineer, with 6+ years of experience in building accessible and high-quality digital experiences. 
-
-In 2016, I post-graduated from K.B.Raval Institute of Computer Studies with a focus on master of computer application and with a mantra to always stay curious. I can plan, build, launch, and maintain a web application myself—did I mention that I build mobile apps too? I have worked on a handful of cross-platform iOS and Android apps with React Native and Ionic. 
-
-Fast forward to 2023 and I'm still learning and challenging myself. Everything I have done, small or big, has been a vital stepping stone for where I am today. When I'm not coding, you'll find me trekking some stunning landscapes.
+<details>
+    <summary><b>✨Bit More About Me</b></summary><br/>
+    I'm a self-taught passionate full-stack engineer, with 6+ years of experience in building accessible and high-quality digital experiences.
+    <br/><br/>
+    In 2016, I post-graduated from K.B.Raval Institute of Computer Studies with a focus on master of computer application and with a mantra to always stay curious. I can plan, build, launch, and maintain a web application myself—did I mention that I build mobile apps too? I have worked on a handful of cross-platform iOS and Android apps with React Native and Ionic. c.
+    <br/><br/>
+    Fast forward to 2023 and I'm still learning and challenging myself. Everything I have done, small or big, has been a vital stepping stone for where I am today. When I'm not coding, you'll find me trekking some stunning landscapes.
+</details>
 
 ### 📈 Stats
 
